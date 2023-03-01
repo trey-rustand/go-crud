@@ -1,4 +1,4 @@
-module example/scheduler
+module example/go-crud
 
 go 1.20
 

@@ -2,7 +2,7 @@ package main
 
 import ( 
 "github.com/gin-gonic/gin"
-"github.com/trey-rustand/Scheduler/initializers"
+"github.com/trey-rustand/go-crud/initializers"
 )
 func init(){
 	initializers.LoadEnvVariables()
